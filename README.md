@@ -1,0 +1,2 @@
+# wechathelper
+to manage wechat
